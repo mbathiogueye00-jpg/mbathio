@@ -8,7 +8,7 @@ with st.sidebar:
     st.write("Adresse: Keur massar")
     st.write("FORMATIONS")
     st.write("2024: BAC L2")
-)
+
     st.write("-2026:BTS en Geomatique")
 
 st.header("Technicien supérieur en Geomatique")
@@ -20,7 +20,7 @@ st.subheader("Projet academique")
 st.write("Programmation: Réalisation d'un CV digital sur Steamlit")
 st.write("Projection cartographique: Collecte de données spatiales sur le terrain")
 st.write("Base de données:  création d'une base de données spatiales")
-st.write("Analyse cartographique pour l'amenagement du territoire")
+st.write("Analyse cartographique: pour l'amenagement du territoire")
 
 st.subheader("Expériences")
 st.write("Poste d'adjoint president de la communication de l'amical des etudiants thièsois")
@@ -40,4 +40,5 @@ st.subheader("Perspectives")
 st.write("Ambitionne de créer un cabinet d'expertise en Géomatique spécialisé dans L'Amenagement du territoire")
 st.write("Ambitionne de concevoir et d'administrer des bases de données spatiales (post gis) pour l'analyse de données geographiques")
 st.write("Specialiste SiG")
+
 
