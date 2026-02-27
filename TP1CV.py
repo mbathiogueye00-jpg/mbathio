@@ -4,7 +4,7 @@ with st.sidebar:
     st.write("Mbathio Gueye")
     st.write("CONTACTS")
     st.write("Email: mbathiogueye00@gmail.com")
-   st.write("Tel:760281753")
+    st.write("Tel:760281753")
     st.write("Adresse: Keur massar")
     st.write("FORMATIONS")
     st.write("2024: BAC L2")
@@ -35,6 +35,7 @@ st.write(" Pack Office (EXCEL , WORD , POWER POINT")
 
 st.subheader("Perspectives")
 st.write("Je souhaite devenir spécialiste en Systèmes d’Information Géographique SIG et en gestion des données spatiales.")
+
 
 
 
